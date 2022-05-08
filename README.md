@@ -1,60 +1,22 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-## Hi, I'm Md. Rahat hasan 👋
 
-### I've been working as a Junior SQA Engineer since 10th December, 2021. I'm experienced in testing Software Application. Currently...
-- 💼 Working as Junior SQA Engineer at [Go Bangladesh](https://www.facebook.com/GoBangladesh.eTransport/)
-- 👨🏻‍💻 Working on MVC and Web API in ASP.NET Core & Standard, Angular, Bootstrap, JQuery
-- 🌱 Learning vastly ASP.NET Core
-- 👯 I’m looking to collaborate on FullStack Web Application Development
-- 🤔 I’m looking for help with Microservice, DevOps
-- 💬 Ask me about any tech related stuff
-
-
-### Social Networks
-[<img align="left" alt="Md. Rahat Hasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-[<img align="left" alt="Md. Rahat Hasan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>][facebook]
-
-<p>&nbsp;</p>
-
-
-### Languages
-<img align="left" alt="C Sharp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-<p>&nbsp;</p>
-
-### Tools
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<p>&nbsp;</p>
-
-
-### Frameworks
-
-<img align="left" alt="JQuery" height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Logo_jQuery.svg" />
-<img align="left" alt="Bootstrap" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png" />
-
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-### Github Stats
-
-
-[linkedin]: https://www.linkedin.com/in/md-rahat-hasan-0b8292178/
-[facebook]: https://www.facebook.com/rahat.hasan.94617/
-
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm Md. Rahat Hasan 👨‍🎓
 </div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Md.%20Rahat%20Hasan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashikruet133068/)](https://www.linkedin.com/in/md-rahat-hasan-0b8292178/)
+ [![GitHub followers](https://img.shields.io/github/followers/3024k?label=Follow&style=social)](https://github.com/3024k/?tab=follow) 
+ [![Gmail Badge](https://img.shields.io/badge/-rahatcsejnu@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:rahatcsejnu@gmail.com)](mailto:rahatcsejnu@gmail.com) 
+ ![](https://visitor-badge.glitch.me/badge?page_id=3024k.3024k) 
+
+<br />
+Hi, I am a software quality assurance engineer from Bangladesh, I've been working as a Junior SQA Engineer since 10th December, 2021.
+<br />
+<br />
+  
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3024k&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />
+
+</details>
+
