@@ -16,7 +16,7 @@ Hi, I am a software quality assurance engineer from Bangladesh, I've been workin
   
 <summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=3024k&show_icons=true&theme=gotham" alt="Humayun Ahmed Ashik" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahat7872&show_icons=true&theme=gotham" alt="Md. Rahat hasan" />
 
 </details>
 
