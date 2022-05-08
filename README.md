@@ -1,3 +1,5 @@
+<div align="center">
+<img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 ## Hi, I'm Md. Rahat hasan 👋
 
 ### I've been working as a Junior SQA Engineer since 10th December, 2021. I'm experienced in testing Software Application. Currently...
