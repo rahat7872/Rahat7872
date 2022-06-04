@@ -1,7 +1,7 @@
 <div align="center">
 <img align="center" alt="GIF" height="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Md. Rahat Hasan 👨‍🎓
+# Hey there , I'm Md. Rahat Hasan 👨‍🎓
 </div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Md.%20Rahat%20Hasan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashikruet133068/)](https://www.linkedin.com/in/md-rahat-hasan-0b8292178/)
@@ -10,7 +10,7 @@
  ![](https://visitor-badge.glitch.me/badge?page_id=rahat7872.rahat7872) 
 
 <br />
-Hi, I am a software quality assurance engineer from Bangladesh, I've been working as a Junior SQA Engineer since 10th December, 2021.
+Hi, I am a software quality assurance engineer from Bangladesh.
 <br />
 <br />
   
