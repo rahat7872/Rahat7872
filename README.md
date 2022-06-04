@@ -10,7 +10,7 @@
  ![](https://visitor-badge.glitch.me/badge?page_id=rahat7872.rahat7872) 
 
 <br />
-Hi, I am a software quality assurance engineer from Bangladesh.
+
 <br />
 <br />
   
